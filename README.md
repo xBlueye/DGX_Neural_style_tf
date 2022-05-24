@@ -66,3 +66,6 @@ download VGG-19 model weights from http://www.vlfeat.org/matconvnet/pretrained/ 
   https://github.com/cysmith/neural-style-tf#arguments
 # Optimization Arguments
   https://github.com/cysmith/neural-style-tf#optimization-arguments
+# Video Result
+https://www.youtube.com/watch?v=DbHJRLw4cOo
+This file was to big for github.
